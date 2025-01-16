@@ -18,6 +18,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args)
 	{
+		//New commonets are added
 		String productName ="ADIDAS ORIGINAL";
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
